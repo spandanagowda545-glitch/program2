@@ -1,3 +1,7 @@
 hello github
 this is a feature branch
+HEAD
 master-branch edited
+
+feature-branch conflicting edit
+feature-branch
